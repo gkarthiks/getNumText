@@ -1,6 +1,6 @@
 {
   "name": "getnumtext",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Takes the division expression and returns the result in String with optional currency unit.",
   "main": "index.js",
   "scripts": {
