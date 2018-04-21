@@ -28,4 +28,3 @@ getNumText('345678.567/678', {isCurrency:true, domicile:'USD', limit:3})
 |isCurrency |	false	| defines whether the resultant is currency or normal numerals.|
 |domicile	| 'USD'	| defines the currency country unit. asof now, USD and INR|
 |limit	| 2	| defines the roundof limit for decimal numbers|
-
