@@ -1,3 +1,4 @@
+![node](https://img.shields.io/badge/node-v8.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-green.svg) [![Build Status](https://travis-ci.org/gkarthiks/getNumText.svg?branch=master)](https://travis-ci.org/gkarthiks/getNumText)
 # getNumText
 Takes the division expression and returns the result in String
 ## Why you need this?
