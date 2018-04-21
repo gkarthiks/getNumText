@@ -1,0 +1,32 @@
+{
+  "name": "getnumtext",
+  "version": "0.0.1",
+  "description": "Takes the division expression and returns the result in String with optional currency unit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gkarthiks/getNumText.git"
+  },
+  "keywords": [
+    "divisiontostring",
+    "divide",
+    "string",
+    "number-to-text"
+  ],
+  "author": "Karthikeyan Govindaraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkarthiks/getNumText/issues"
+  },
+  "homepage": "https://github.com/gkarthiks/getNumText#readme",
+  "dependencies": {
+    "@gkarthiks/isemptyobj": "^0.1.1",
+    "written-number": "^0.8.1"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
